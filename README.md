@@ -7,8 +7,12 @@
 | I'm a really friendly person，like to improve own skills. I can speak English and Chineese, and I enjoy to explore new places.  | У меня очень доброжелательный характер. Очень люблю учиться новому. Могу говорить на английском и китайском яыках, и очень люблю открывать новое. | 我有怀好意的态度, 非常喜欢学习新的知识，达到自己还没去过的地方。我会说英文和中文。 |
 |:-|:-:|-:|
 
-### ** Hard skills:**
-
+###  **Hard skills**:
+Python
+MySQL
+Git/Github
+OTRS, JIRA, CRM
+XML
 
 ### **My pet-projects:**
 #### [Library_by_Valery](https://github.com/Mirrabellko/Library_by_Valery "This is my first pet-project")

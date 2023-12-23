@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 #### [Library_by_Valery](https://github.com/Mirrabellko/Library_by_Valery "This is my first pet-project")
 #### [Snake_by_Valery](https://github.com/Mirrabellko/Snake_by_Valery "This is my second pet-project. There are two versions: console version and with user interface")
 
-![](https://www.codewars.com/users/Mirrabellko/badges/large)
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Mirrabellko)](https://github.com/KnlnKS/leetcode-stats)
 
+|[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Mirrabellko)](https://github.com/KnlnKS/leetcode-stats) | ![](https://www.codewars.com/users/Mirrabellko/badges/large) |
+ |:-|:-:|-:|

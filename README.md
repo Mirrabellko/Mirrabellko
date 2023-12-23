@@ -1,4 +1,5 @@
-## |**Hello everyone!**| **Приветствую!** | **大家好！**|
+ |**Hello everyone!**| **Приветствую!** | **大家好！**|
+ |:-|:-:|-:|
 |Welcome to my Github profile. I'd like to introduce myself.| Добро пожаловать на мой профиль Гитхаба. С удовольствием представлюсь | 欢迎来认识我，可以看看自我介绍|
 |My name is Valery, a junior Python developer. | Я начинающий разработчик. | 我是个初级Python开发|
 

@@ -16,11 +16,12 @@
 
 ### **My pet-projects:**
 #### [Library_by_Valery](https://github.com/Mirrabellko/Library_by_Valery "This is my first pet-project")
-[![add-book.jpg](https://i.postimg.cc/g0MRNJJc/add-book.jpg)](https://postimg.cc/nsDCLnBN) [![delete-book.jpg](https://i.postimg.cc/BQWFhRqF/delete-book.jpg)](https://postimg.cc/23w3ycLj)
+[![add-book.jpg](https://i.postimg.cc/g0MRNJJc/add-book.jpg)](https://postimg.cc/nsDCLnBN) 
+[![delete-book.jpg](https://i.postimg.cc/BQWFhRqF/delete-book.jpg)](https://postimg.cc/23w3ycLj)
 
 #### [Snake_by_Valery](https://github.com/Mirrabellko/Snake_by_Valery "This is my second pet-project. There are two versions: console version and with user interface")
 [![snake-konsole.jpg](https://i.postimg.cc/XYLyYJ9K/snake-konsole.jpg)](https://postimg.cc/MncGszPX)
-[![snake-GUI.jpg](https://i.postimg.cc/HkYVRgFr/snake-GUI.jpg)](https://postimg.cc/KRWG3dGb)
+[![snake-GUI.jpg](https://i.postimg.cc/GtnpQwkh/snake-GUI.jpg)](https://postimg.cc/DJ5FvNjt)
 
 
 ![](https://www.codewars.com/users/Mirrabellko/badges/large) 
